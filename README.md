@@ -1,4 +1,6 @@
-# WrongRoute
+# Wrong Route Checker
+
+App that will check a user is on route or not...
 
 <h1>Working Procedure </h1>
 <div align="center"><img src="http://s28.postimg.org/cua5xqa9p/Wrong_Route.jpg"/></div>
